@@ -6,7 +6,7 @@
 SELECT *
 FROM layoffs;
 
- --1- Remove the Duplicate
+ #1- Remove the Duplicate
 -- 2- Standardize Data
 -- 3- Null values or Blanks values
 -- 4- Remove any columns and row
